@@ -570,6 +570,54 @@
 				<key>BundlePath</key>
 				<string>VoodooI2CHID.kext</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>Enabled</key>
+				<true/>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/AirportBrcmFixup</string>
+				<key>BundlePath</key>
+				<string>AirportBrcmFixup.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>Enabled</key>
+				<true/>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
+				<string></string>
+				<key>BundlePath</key>
+				<string>BrcmBluetoothInjector.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>Enabled</key>
+				<true/>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/BrcmPatchRAM3</string>
+				<key>BundlePath</key>
+				<string>BrcmPatchRAM3.kext</string>
+			</dict>
 		</array>
 		<key>Block</key>
 		<array>
@@ -892,11 +940,11 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>debug=0x100 -v keepsyms=1 alcid=13</string>
+				<string>debug=0x100 keepsyms=1 alcid=13</string>
 				<key>csr-active-config</key>
-				<data>AAAAAA==</data>
+				<data>/wcAAA==</data>
 				<key>prev-lang:kbd</key>
-				<string>en-US:0</string>
+				<string>en:0</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -913,6 +961,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<array>
 				<string>boot-args</string>
+				<string>csr-active-config</string>
 			</array>
 		</dict>
 		<key>LegacyEnable</key>
