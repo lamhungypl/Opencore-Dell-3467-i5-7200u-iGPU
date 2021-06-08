@@ -252,10 +252,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -270,10 +270,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -288,10 +288,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -306,10 +306,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string>19.9.9</string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -324,10 +324,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -342,10 +342,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -360,10 +360,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -378,10 +378,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -396,10 +396,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -414,10 +414,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -432,10 +432,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -450,10 +450,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -468,10 +468,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -486,10 +486,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -504,10 +504,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -522,10 +522,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -540,10 +540,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -558,10 +558,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -576,10 +576,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -594,10 +594,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -612,10 +612,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -630,10 +630,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -648,10 +648,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -666,10 +666,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -684,10 +684,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -702,10 +702,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -720,10 +720,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -738,10 +738,10 @@
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -750,6 +750,24 @@
 				<string>Any</string>
 				<key>BundlePath</key>
 				<string>USBPorts.kext</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/VoodooInput</string>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext</string>
 			</dict>
 		</array>
 		<key>Block</key>
