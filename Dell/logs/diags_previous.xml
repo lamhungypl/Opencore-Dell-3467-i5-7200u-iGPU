@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <SupportAssistPrebootDiagnosticLog>
     <Schema>1.0.0</Schema>
-    <LogNumber>117</LogNumber>
-    <LogTimeStamp>02/04/2021 15:17:29</LogTimeStamp>
+    <LogNumber>163</LogNumber>
+    <LogTimeStamp>06/26/2021 16:57:17</LogTimeStamp>
     <ePSA_Data>
-      <Result>Pass</Result>
+      <Result>Not Reported</Result>
+      <ReturnCode>BOOT_F2</ReturnCode>
       <DevicesTested>Memory, Hard Drive</DevicesTested>
-      <LogData>
-        <ePSALogTimeStamp>02/04/2021 15:17:23</ePSALogTimeStamp>
-        <ePSAVersion>4304.14</ePSAVersion>
-        <ErrorCode>2000:0000</ErrorCode>
-        <ValidationCode>128204</ValidationCode>
-        <ErrorMessage><![CDATA[ePSA quick test pass]]></ErrorMessage>
-        <MemRxHealed>FALSE</MemRxHealed>
-      </LogData>
-      <ePSAInfo><![CDATA[serviceTag=C62WYD2&errCode=0000&ValCode=128204&uID=01719]]></ePSAInfo>
       <ePSAFullVersion>4304.14</ePSAFullVersion>
-      <ePSAInvocationCount>2</ePSAInvocationCount>
+      <ePSAInvocationCount>48</ePSAInvocationCount>
     </ePSA_Data>
     <BIOS_Data>
       <ErrorCategory>NO_BOOT</ErrorCategory>
+      <ErrorMessage><![CDATA[Operating System Loader has no signature. Incompatible with SecureBoot. ]]></ErrorMessage>
       <SOS_Available>FALSE</SOS_Available>
       <TimeOutSeconds>0</TimeOutSeconds>
     </BIOS_Data>

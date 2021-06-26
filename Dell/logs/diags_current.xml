@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <SupportAssistPrebootDiagnosticLog>
     <Schema>1.0.0</Schema>
-    <LogNumber>120</LogNumber>
-    <LogTimeStamp>02/05/2021 03:03:27</LogTimeStamp>
+    <LogNumber>164</LogNumber>
+    <LogTimeStamp>06/26/2021 17:55:27</LogTimeStamp>
     <ePSA_Data>
       <Result>Abort</Result>
       <DevicesTested>Memory, Hard Drive</DevicesTested>
+      <LogData>
+        <ePSALogTimeStamp>06/26/2021 17:54:40</ePSALogTimeStamp>
+        <ePSAVersion>4304.14</ePSAVersion>
+        <ErrorCode>2000:0151</ErrorCode>
+        <ValidationCode>111867</ValidationCode>
+        <ErrorMessage><![CDATA[Hard Drive 1 - S/N X6QFT37OT, incorrect status = 32
+No additional sense information]]></ErrorMessage>
+        <MemRxHealed>FALSE</MemRxHealed>
+      </LogData>
+      <ePSAInfo><![CDATA[serviceTag=C62WYD2&errCode=0151&ValCode=111867&fru=PH01KT1KTB1006AQLA3ZA01&uID=0D463]]></ePSAInfo>
       <ePSAFullVersion>4304.14</ePSAFullVersion>
-      <ePSAInvocationCount>5</ePSAInvocationCount>
+      <ePSAInvocationCount>49</ePSAInvocationCount>
     </ePSA_Data>
     <BIOS_Data>
       <ErrorCategory>NO_BOOT</ErrorCategory>
-      <ErrorMessage><![CDATA[No bootable devices found.
-]]></ErrorMessage>
       <SOS_Available>FALSE</SOS_Available>
       <TimeOutSeconds>0</TimeOutSeconds>
     </BIOS_Data>
